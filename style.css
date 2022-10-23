@@ -1,0 +1,24 @@
+.navbar-expand-lg {
+    background-color: rgb(6, 40, 61);
+}
+
+
+.nav-link {
+    color: white;
+}
+
+.nav-link:hover {
+    color: rgb(255, 234, 0);
+}
+
+.card {
+    margin-top: 50px;
+    border-width: 2px;
+    border-color: rgb(6, 40, 61);
+    margin-bottom: 80px;
+}
+
+footer {
+    text-align: center;
+    color: rgb(71, 181, 255);
+}
